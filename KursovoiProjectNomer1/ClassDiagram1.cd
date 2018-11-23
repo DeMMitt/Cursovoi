@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KursovoiProjectNomer1.Program" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovoiProjectNomer1.Global" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAACAIAAAAAAAAAAAgAACAAQAAAAAAA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovoiProjectNomer1.StoreClass" Collapsed="true">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAIAAAAAAAAAIAAAAAAAAAEAAgAJQAAAAAAAEAAA=</HashCode>
+      <FileName>StoreClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovoiProjectNomer1.SearchClass" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAgABAAAIABAAAAAAAAAAAg=</HashCode>
+      <FileName>StoreClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovoiProjectNomer1.LoadingScreen" Collapsed="true">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>other\LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.PictureBox" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <Members>
+      <Method Name="CancelAsync" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="Load" Hidden="true" />
+      <Method Name="LoadAsync" Hidden="true" />
+      <Method Name="OnEnabledChanged" Hidden="true" />
+      <Method Name="OnHandleCreated" Hidden="true" />
+      <Method Name="OnHandleDestroyed" Hidden="true" />
+      <Method Name="OnLoadCompleted" Hidden="true" />
+      <Method Name="OnLoadProgressChanged" Hidden="true" />
+      <Method Name="OnPaint" Hidden="true" />
+      <Method Name="OnParentChanged" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Method Name="OnSizeModeChanged" Hidden="true" />
+      <Method Name="OnVisibleChanged" Hidden="true" />
+      <Method Name="PictureBox" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+    <Lollipop Orientation="Bottom" Position="0.1" Collapsed="true" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="KursovoiProjectNomer1.WebWorking" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAACABAQAQAAAIAABAA=</HashCode>
+      <FileName>WebWorking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KursovoiProjectNomer1.Async" Collapsed="true">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAABAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Async.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fastJSON.JSON" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkIAABAgAAAAAEABAACAAAAAAIAAAABIAAAAAAIAA=</HashCode>
+      <FileName>other\fastJSON\JSON.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

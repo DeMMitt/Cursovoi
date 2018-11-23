@@ -1,0 +1,15 @@
+c:\users\nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\bin\Debug\KursovoiProjectNomer1.exe.config
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\bin\Debug\KursovoiProjectNomer1.exe
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\bin\Debug\KursovoiProjectNomer1.pdb
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.Properties.Resources.resources
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.csproj.GenerateResource.Cache
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.exe
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.pdb
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\bin\Debug\MySql.Data.dll
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.Auth.resources
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.Register.resources
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.csprojResolveAssemblyReference.cache
+C:\Users\Nickitee\documents\visual studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.Main.resources
+C:\Users\Nickitee\Documents\Visual Studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.Search.resources
+C:\Users\Nickitee\Documents\Visual Studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.AddForm.resources
+C:\Users\Nickitee\Documents\Visual Studio 2013\Projects\KursovoiProjectNomer1\KursovoiProjectNomer1\obj\Debug\KursovoiProjectNomer1.EditForm.resources
